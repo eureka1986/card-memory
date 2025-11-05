@@ -1,5 +1,7 @@
 # Card Memory
 
+[![CI](https://github.com/eureka1986/card-memory/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/eureka1986/card-memory/actions/workflows/ci.yml)
+
 一个基于 React + Vite 的卡片记忆与复习管理应用，支持自定义卡片内容、分类标签及基于间隔重复（SRS）的复习计划。项目默认运行在浏览器端，通过 IndexedDB 保留用户数据，即使刷新也不会丢失。
 
 ## 功能亮点
